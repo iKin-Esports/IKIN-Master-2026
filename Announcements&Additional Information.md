@@ -41,9 +41,8 @@ If fewer than 16 teams remain registered after the registration window, the even
 | Place | Payout |
 |---|---|
 | 1st Place | $500 USD |
-| 2nd Place | $150 USD |
+| 2nd Place | $175 USD |
 | 3rd Place | $75 USD |
-| 4th Place | $25 USD |
 
 ## Registration Eligibility Rule
 ### Single Organization Rule
