@@ -14,7 +14,7 @@
 
 ## Supplementary Provisions
 
-If fewer than 16 teams remain registered after the extended window, the event will be cancelled for failing to meet minimum competition requirements.
+If fewer than 16 teams remain registered after the registration window, the event will be cancelled for failing to meet minimum competition requirements.
 
 ## Format
 ### Open Qualifier (Online, December 2026)
