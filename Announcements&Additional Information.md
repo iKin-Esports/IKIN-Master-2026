@@ -48,3 +48,6 @@ If fewer than 16 teams remain registered after the registration window, the even
 ## Registration Eligibility Rule
 ### Single Organization Rule
 The same organization is not permitted to submit two or more teams for this tournament.
+
+### iKin Banned
+Player can not submit in team to play if he was been banned by iKin Esports.
