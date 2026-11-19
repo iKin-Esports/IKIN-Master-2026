@@ -1,12 +1,12 @@
 # IKIN Master 2026
 
 ## Event Dates
-- **Open Qualifier**: December 5 ‑ December 6, 2026
+- **Open Qualifier**: December 7 ‑ December 9, 2026
 - **Main Events**: December 14 ‑ December 17, 2026
 
 - **TO**: iKin Esports
 - **Online Servers**: Hangzhou
-- **Registration Window**: December 1 ‑ December 3, 2026
+- **Registration Window**: December 1 ‑ December 5, 2026
 
 > Teams would need regist on 5E Client tournaments page.
 
@@ -22,8 +22,9 @@ If fewer than 16 teams remain registered after the registration window, the even
 
 | Date | Item | 
 |---|---|
-| Dec 5 | Round‑of‑64 and Round‑of‑32 | 
-| Dec 6 | Round‑of‑16 and Round‑of‑8 | 
+| Dec 7 | Round‑of‑64 and Round‑of‑32 | 
+| Dec 8 | Round‑of‑16 |
+| Dec 9 | Round‑of‑8 | 
 
 > Round-of-8 matchs winner advance to Main Events
 
