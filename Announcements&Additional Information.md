@@ -2,7 +2,7 @@
 
 ## Event Dates
 - **Open Qualifier**: December 5 ‑ December 6, 2026
-- **Main Events**: December 10 ‑ December 13, 2026
+- **Main Events**: December 14 ‑ December 17, 2026
 
 - **TO**: iKin Esports
 - **Online Servers**: Hangzhou
@@ -32,10 +32,10 @@ If fewer than 16 teams remain registered after the registration window, the even
 
 | Date | Item | 
 |---|---|
-| Dec 10 | Opening Matchs | 
-| Dec 11 | UB Final and LB Round 1 | 
-| Dec 12 | LB Final | 
-| Dec 13 | Grand Final | 
+| Dec 14 | Opening Matchs | 
+| Dec 15 | UB Final and LB Round 1 | 
+| Dec 16 | LB Final | 
+| Dec 17 | Grand Final | 
 
 ## Prize Pool
 | Place | Payout |
